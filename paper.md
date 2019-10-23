@@ -2,7 +2,7 @@
 Steve Thomson
 
 # Title
-This is the title of my paper
+This is the title of my paper - this time on a new branch
 
 # Intro
 This is the start of my paper
