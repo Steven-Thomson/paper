@@ -1,8 +1,8 @@
 # Authors
-Steve Thomson
+Steve Thomson & Amanda Unsworth
 
 # Title
-This is the title of my paper
+This is the title of my paper updated to include new work by Amanda
 
 # Intro
 This is the start of my paper
