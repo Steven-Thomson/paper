@@ -15,3 +15,6 @@ Add another paper in to the introduction
 
 # Data
 Western blot of Cofilin in platelets
+
+# Methods
+We chucked a load of stuff together and hoped for the best
