@@ -1,5 +1,5 @@
 # Authors
-Steve Thomson & Amanda Unsworth
+Amanda Unsworth & Steve Thomson
 
 # Title
 
