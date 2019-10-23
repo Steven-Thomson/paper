@@ -1,5 +1,8 @@
 # Authors
-Amanda Unsworth & Steve Thomson
+
+Steve Thomson & Amanda Unsworth
+Uom and MMU
+
 
 # Title
 
