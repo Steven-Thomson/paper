@@ -30,3 +30,6 @@ Some pretty pictures
 
 #Conclusions
 This was a very good study into some very dull
+
+#Acknowledgments
+Thanks be to everyone who helped
